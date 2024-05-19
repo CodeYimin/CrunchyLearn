@@ -1,4 +1,15 @@
 # CrunchyLearn
+
+How To Run the file:
+
+1. git clone git@github.com:CodeYimin/CrunchyLearn.git
+2. cd client
+3. Inside the client subdirectory, npm install
+4. cd into the server subdirectory
+5. Inside the server directory, if you are on Windows, do npm install. Inside the server directory, if you are on Mac, do sudo npm install -unsafe--perms
+6. Inside the server subdirectory, create a .env file. The .env file inside the server directory should have three variables: DATABASE_URL = "file:./dev.db", HUGGING_FACE_KEY, GCLOUD_KEY. For HUGGING_FACE_KEY and GCLOUD_KEY, create your own api keys on Huggingface and google cloud respectively.
+7. Open a terminal and go into the server subdirectory, and run npm start
+8. Open a new terminal and go into client subdirectory, and run npm start
  
 Inspiration:
 
