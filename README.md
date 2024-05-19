@@ -8,8 +8,9 @@
 4. cd into the server subdirectory
 5. Inside the server directory, if you are on Windows, do npm install. Inside the server directory, if you are on Mac, do sudo npm install -unsafe--perms
 6. Inside the server subdirectory, create a .env file. The .env file inside the server directory should have three variables: DATABASE_URL = "file:./dev.db", HUGGING_FACE_KEY, GCLOUD_KEY. For HUGGING_FACE_KEY and GCLOUD_KEY, create your own api keys on Huggingface and google cloud respectively.
-7. Open a terminal and go into the server subdirectory, and run npm start
-8. Open a new terminal and go into client subdirectory, and run npm start
+7. Run a docker instance on port 4444 following instructions at https://github.com/ghoshRitesh12/aniwatch-api or replace all instances of `http://localhost:4444` with `https://api-aniwatch.onrender.com` in client.
+8. Open a terminal and go into the server subdirectory, and run npm start
+9. Open a new terminal and go into client subdirectory, and run npm start
  
 **Inspiration:**
 
