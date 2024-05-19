@@ -1,0 +1,7 @@
+{
+  subtitle: "some japanese here",
+  timeStart: 1552,
+  timeEnd: 2000 (ms),
+  basic_forms: ["suru", ...],
+  conjugation_forms: ["continuous", ...],
+}

@@ -1,0 +1,2184 @@
+[
+  {
+    "id": "Yuru Camp (Laid-Back Camp)",
+    "key": "laid-back-camp-242",
+    "totalEpisodes": 12,
+    "episodes": [
+      {
+        "title": "Mount Fuji and Curry Noodles",
+        "episodeId": "laid-back-camp-242?ep=5112",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Welcome to the Outdoor Activities Club",
+        "episodeId": "laid-back-camp-242?ep=5113",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Mount Fuji and Relaxed Hot Pot Camp",
+        "episodeId": "laid-back-camp-242?ep=5114",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "The Outdoor Activities Club and the Solo Camping Girl",
+        "episodeId": "laid-back-camp-242?ep=5115",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Two Camps, Two Campers' Views",
+        "episodeId": "laid-back-camp-242?ep=5116",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Meat and Fall Colors and the Mystery Lake",
+        "episodeId": "laid-back-camp-242?ep=5117",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "A Night on the Lake Shore and Campers",
+        "episodeId": "laid-back-camp-242?ep=5118",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "Exams, Caribou, Steamed Buns, Yum!",
+        "episodeId": "laid-back-camp-242?ep=5119",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "A Night of Navigator Nadeshiko and Hot Spring Steam",
+        "episodeId": "laid-back-camp-242?ep=5120",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Clumsy Travelers and Camp Meetings",
+        "episodeId": "laid-back-camp-242?ep=5121",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Christmas Camp!",
+        "episodeId": "laid-back-camp-242?ep=5122",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Mount Fuji and the Laid-Back Camp Girls",
+        "episodeId": "laid-back-camp-242?ep=5123",
+        "number": 12,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "World Trigger",
+    "key": "world-trigger-1356",
+    "totalEpisodes": 73,
+    "episodes": [
+      {
+        "title": "Visitor from the Other World",
+        "episodeId": "world-trigger-1356?ep=19502",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Neighbor and Trion Soldier",
+        "episodeId": "world-trigger-1356?ep=19503",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Osamu Mikumo's Ability",
+        "episodeId": "world-trigger-1356?ep=19504",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Ai Kitora, A-Rank No.5 Agent",
+        "episodeId": "world-trigger-1356?ep=19505",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Power Elite, Yuichi Jin",
+        "episodeId": "world-trigger-1356?ep=19506",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Chika Amatori's Side Effect",
+        "episodeId": "world-trigger-1356?ep=19507",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Miwa Squad's Assault",
+        "episodeId": "world-trigger-1356?ep=19508",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "The Black Trigger",
+        "episodeId": "world-trigger-1356?ep=19509",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "The Organization Known as Border",
+        "episodeId": "world-trigger-1356?ep=19510",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Tamakoma Branch",
+        "episodeId": "world-trigger-1356?ep=19511",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Each One's Determination",
+        "episodeId": "world-trigger-1356?ep=19512",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "A-Ranks Agents of Tamakoma",
+        "episodeId": "world-trigger-1356?ep=19513",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "Border's Top Teams",
+        "episodeId": "world-trigger-1356?ep=19514",
+        "number": 13,
+        "isFiller": false
+      },
+      {
+        "title": "No. 1 Attacker, Kei Tachikawa",
+        "episodeId": "world-trigger-1356?ep=19515",
+        "number": 14,
+        "isFiller": false
+      },
+      {
+        "title": "Black Trigger, Fujin",
+        "episodeId": "world-trigger-1356?ep=19516",
+        "number": 15,
+        "isFiller": false
+      },
+      {
+        "title": "The Future Moves Forward",
+        "episodeId": "world-trigger-1356?ep=19517",
+        "number": 16,
+        "isFiller": false
+      },
+      {
+        "title": "Border Official Enlistment",
+        "episodeId": "world-trigger-1356?ep=19518",
+        "number": 17,
+        "isFiller": false
+      },
+      {
+        "title": "Osamu Mikumo vs. Souya Kazama",
+        "episodeId": "world-trigger-1356?ep=19519",
+        "number": 18,
+        "isFiller": false
+      },
+      {
+        "title": "Rank War, Shun Midorikawa's Plot",
+        "episodeId": "world-trigger-1356?ep=19520",
+        "number": 19,
+        "isFiller": false
+      },
+      {
+        "title": "Duel! Yuuma vs. Midorikawa",
+        "episodeId": "world-trigger-1356?ep=19521",
+        "number": 20,
+        "isFiller": false
+      },
+      {
+        "title": "The Neighbors' World",
+        "episodeId": "world-trigger-1356?ep=19522",
+        "number": 21,
+        "isFiller": false
+      },
+      {
+        "title": "The Large-Scale Invasion Begins",
+        "episodeId": "world-trigger-1356?ep=19523",
+        "number": 22,
+        "isFiller": false
+      },
+      {
+        "title": "The Holy Land, Aftokrator",
+        "episodeId": "world-trigger-1356?ep=19524",
+        "number": 23,
+        "isFiller": false
+      },
+      {
+        "title": "Meeden's Baby Birds",
+        "episodeId": "world-trigger-1356?ep=19525",
+        "number": 24,
+        "isFiller": false
+      },
+      {
+        "title": "The Most Powerful Squad in Border",
+        "episodeId": "world-trigger-1356?ep=19526",
+        "number": 25,
+        "isFiller": false
+      },
+      {
+        "title": "Fierce fight! Enedora vs. Kazama Squad",
+        "episodeId": "world-trigger-1356?ep=19527",
+        "number": 26,
+        "isFiller": false
+      },
+      {
+        "title": "Border on the Counterattack",
+        "episodeId": "world-trigger-1356?ep=19528",
+        "number": 27,
+        "isFiller": false
+      },
+      {
+        "title": "Organon User",
+        "episodeId": "world-trigger-1356?ep=19529",
+        "number": 28,
+        "isFiller": false
+      },
+      {
+        "title": "A Crossroads of Fate",
+        "episodeId": "world-trigger-1356?ep=19530",
+        "number": 29,
+        "isFiller": false
+      },
+      {
+        "title": "The Enemy Captain, Hyrein",
+        "episodeId": "world-trigger-1356?ep=19531",
+        "number": 30,
+        "isFiller": false
+      },
+      {
+        "title": "Osamu Mikumo's Determination",
+        "episodeId": "world-trigger-1356?ep=19532",
+        "number": 31,
+        "isFiller": false
+      },
+      {
+        "title": "Implacable Enedora",
+        "episodeId": "world-trigger-1356?ep=19533",
+        "number": 32,
+        "isFiller": false
+      },
+      {
+        "title": "The Terror of Hyrein",
+        "episodeId": "world-trigger-1356?ep=19534",
+        "number": 33,
+        "isFiller": false
+      },
+      {
+        "title": "A Fierce Showdown! The Fight of the Best",
+        "episodeId": "world-trigger-1356?ep=19535",
+        "number": 34,
+        "isFiller": false
+      },
+      {
+        "title": "The End of the Battle",
+        "episodeId": "world-trigger-1356?ep=19536",
+        "number": 35,
+        "isFiller": false
+      },
+      {
+        "title": "The Have-not",
+        "episodeId": "world-trigger-1356?ep=19537",
+        "number": 36,
+        "isFiller": false
+      },
+      {
+        "title": "A Hero and a Partner",
+        "episodeId": "world-trigger-1356?ep=19538",
+        "number": 37,
+        "isFiller": false
+      },
+      {
+        "title": "B-Rank Wars Begin",
+        "episodeId": "world-trigger-1356?ep=19539",
+        "number": 38,
+        "isFiller": false
+      },
+      {
+        "title": "Suwa Squad and Arafune Squad",
+        "episodeId": "world-trigger-1356?ep=19540",
+        "number": 39,
+        "isFiller": false
+      },
+      {
+        "title": "Setting off! Mikumo Squad",
+        "episodeId": "world-trigger-1356?ep=19541",
+        "number": 40,
+        "isFiller": false
+      },
+      {
+        "title": "An Impertinent Rookie",
+        "episodeId": "world-trigger-1356?ep=19542",
+        "number": 41,
+        "isFiller": false
+      },
+      {
+        "title": "Ko Murakami of Suzunari-1",
+        "episodeId": "world-trigger-1356?ep=19543",
+        "number": 42,
+        "isFiller": false
+      },
+      {
+        "title": "Nasu Squad's Choice",
+        "episodeId": "world-trigger-1356?ep=19544",
+        "number": 43,
+        "isFiller": false
+      },
+      {
+        "title": "The Battle in the Foul Weather",
+        "episodeId": "world-trigger-1356?ep=19545",
+        "number": 44,
+        "isFiller": false
+      },
+      {
+        "title": "The Thing That Decides the Battle",
+        "episodeId": "world-trigger-1356?ep=19546",
+        "number": 45,
+        "isFiller": false
+      },
+      {
+        "title": "The Ace's Willpower",
+        "episodeId": "world-trigger-1356?ep=19547",
+        "number": 46,
+        "isFiller": false
+      },
+      {
+        "title": "The Captain's Pride",
+        "episodeId": "world-trigger-1356?ep=19548",
+        "number": 47,
+        "isFiller": false
+      },
+      {
+        "title": "And Towards the Future",
+        "episodeId": "world-trigger-1356?ep=19549",
+        "number": 48,
+        "isFiller": false
+      },
+      {
+        "title": "Fugitives from Another World",
+        "episodeId": "world-trigger-1356?ep=19550",
+        "number": 49,
+        "isFiller": false
+      },
+      {
+        "title": "Invisible Assailants",
+        "episodeId": "world-trigger-1356?ep=19551",
+        "number": 50,
+        "isFiller": false
+      },
+      {
+        "title": "Xeno's Trion Soldiers",
+        "episodeId": "world-trigger-1356?ep=19552",
+        "number": 51,
+        "isFiller": false
+      },
+      {
+        "title": "The Sunset of Meeden",
+        "episodeId": "world-trigger-1356?ep=19553",
+        "number": 52,
+        "isFiller": false
+      },
+      {
+        "title": "The One that Shall Be Saved",
+        "episodeId": "world-trigger-1356?ep=19554",
+        "number": 53,
+        "isFiller": false
+      },
+      {
+        "title": "Giev's Thrust",
+        "episodeId": "world-trigger-1356?ep=19555",
+        "number": 54,
+        "isFiller": false
+      },
+      {
+        "title": "Dead or Alive",
+        "episodeId": "world-trigger-1356?ep=19556",
+        "number": 55,
+        "isFiller": false
+      },
+      {
+        "title": "The Secret of Lilith",
+        "episodeId": "world-trigger-1356?ep=19557",
+        "number": 56,
+        "isFiller": false
+      },
+      {
+        "title": "Xeno and Lilith",
+        "episodeId": "world-trigger-1356?ep=19558",
+        "number": 57,
+        "isFiller": false
+      },
+      {
+        "title": "The Captured Osamu",
+        "episodeId": "world-trigger-1356?ep=19559",
+        "number": 58,
+        "isFiller": false
+      },
+      {
+        "title": "The Two Black Triggers",
+        "episodeId": "world-trigger-1356?ep=19560",
+        "number": 59,
+        "isFiller": false
+      },
+      {
+        "title": "The Adventure of Yotaro",
+        "episodeId": "world-trigger-1356?ep=19561",
+        "number": 60,
+        "isFiller": false
+      },
+      {
+        "title": "Truth and Lies",
+        "episodeId": "world-trigger-1356?ep=19562",
+        "number": 61,
+        "isFiller": false
+      },
+      {
+        "title": "Giev and Charon",
+        "episodeId": "world-trigger-1356?ep=19563",
+        "number": 62,
+        "isFiller": false
+      },
+      {
+        "title": "A Reversed Future",
+        "episodeId": "world-trigger-1356?ep=19564",
+        "number": 63,
+        "isFiller": false
+      },
+      {
+        "title": "A Prisoner from Aftokrator",
+        "episodeId": "world-trigger-1356?ep=19565",
+        "number": 64,
+        "isFiller": false
+      },
+      {
+        "title": "No.1 Shooter, Masataka Ninomiya",
+        "episodeId": "world-trigger-1356?ep=19566",
+        "number": 65,
+        "isFiller": false
+      },
+      {
+        "title": "Sharpened Fangs",
+        "episodeId": "world-trigger-1356?ep=19567",
+        "number": 66,
+        "isFiller": false
+      },
+      {
+        "title": "The Battle of the B-Rank Top Teams",
+        "episodeId": "world-trigger-1356?ep=19568",
+        "number": 67,
+        "isFiller": false
+      },
+      {
+        "title": "The Targeted Tamakoma",
+        "episodeId": "world-trigger-1356?ep=19569",
+        "number": 68,
+        "isFiller": false
+      },
+      {
+        "title": "A Battle Royal",
+        "episodeId": "world-trigger-1356?ep=19570",
+        "number": 69,
+        "isFiller": false
+      },
+      {
+        "title": "A Captain's Duty",
+        "episodeId": "world-trigger-1356?ep=19571",
+        "number": 70,
+        "isFiller": false
+      },
+      {
+        "title": "A New Threat",
+        "episodeId": "world-trigger-1356?ep=19572",
+        "number": 71,
+        "isFiller": false
+      },
+      {
+        "title": "An Evolving Mikumo Squad",
+        "episodeId": "world-trigger-1356?ep=19573",
+        "number": 72,
+        "isFiller": false
+      },
+      {
+        "title": "To the Future",
+        "episodeId": "world-trigger-1356?ep=19574",
+        "number": 73,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Sword Art Online",
+    "key": "sword-art-online-2274",
+    "totalEpisodes": 25,
+    "episodes": [
+      {
+        "title": "The World of Swords",
+        "episodeId": "sword-art-online-2274?ep=26565",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Beater",
+        "episodeId": "sword-art-online-2274?ep=26566",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "The Red-Nosed Reindeer",
+        "episodeId": "sword-art-online-2274?ep=26567",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "The Black Swordsman",
+        "episodeId": "sword-art-online-2274?ep=26568",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "A Crime Within the Walls",
+        "episodeId": "sword-art-online-2274?ep=26569",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Illusionary Avenger",
+        "episodeId": "sword-art-online-2274?ep=26570",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "The Temperature of the Heart",
+        "episodeId": "sword-art-online-2274?ep=26571",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "The Sword Dance of White and Black",
+        "episodeId": "sword-art-online-2274?ep=26572",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "The Blue-Eyed Demon",
+        "episodeId": "sword-art-online-2274?ep=26573",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Crimson Killing Intent",
+        "episodeId": "sword-art-online-2274?ep=26574",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "The Girl of Morning Dew",
+        "episodeId": "sword-art-online-2274?ep=26575",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Yui's Heart",
+        "episodeId": "sword-art-online-2274?ep=26576",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "Edge of Hell's Abyss",
+        "episodeId": "sword-art-online-2274?ep=26577",
+        "number": 13,
+        "isFiller": false
+      },
+      {
+        "title": "The End of the World",
+        "episodeId": "sword-art-online-2274?ep=26578",
+        "number": 14,
+        "isFiller": false
+      },
+      {
+        "title": "Return",
+        "episodeId": "sword-art-online-2274?ep=26579",
+        "number": 15,
+        "isFiller": false
+      },
+      {
+        "title": "Land of the Fairies",
+        "episodeId": "sword-art-online-2274?ep=26580",
+        "number": 16,
+        "isFiller": false
+      },
+      {
+        "title": "Captive Queen",
+        "episodeId": "sword-art-online-2274?ep=26581",
+        "number": 17,
+        "isFiller": false
+      },
+      {
+        "title": "To the World Tree",
+        "episodeId": "sword-art-online-2274?ep=26582",
+        "number": 18,
+        "isFiller": false
+      },
+      {
+        "title": "The Lugru Corridor",
+        "episodeId": "sword-art-online-2274?ep=26583",
+        "number": 19,
+        "isFiller": false
+      },
+      {
+        "title": "General of the Blazing Flame",
+        "episodeId": "sword-art-online-2274?ep=26584",
+        "number": 20,
+        "isFiller": false
+      },
+      {
+        "title": "The Truth of Alfheim",
+        "episodeId": "sword-art-online-2274?ep=26585",
+        "number": 21,
+        "isFiller": false
+      },
+      {
+        "title": "Grand Quest",
+        "episodeId": "sword-art-online-2274?ep=26586",
+        "number": 22,
+        "isFiller": false
+      },
+      {
+        "title": "Bonds",
+        "episodeId": "sword-art-online-2274?ep=26587",
+        "number": 23,
+        "isFiller": false
+      },
+      {
+        "title": "Gilded Hero",
+        "episodeId": "sword-art-online-2274?ep=26588",
+        "number": 24,
+        "isFiller": false
+      },
+      {
+        "title": "The World Seed",
+        "episodeId": "sword-art-online-2274?ep=26589",
+        "number": 25,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Mieruko-chan",
+    "key": "mieruko-chan-17698",
+    "totalEpisodes": 12,
+    "episodes": [
+      {
+        "title": "Can You See Them?",
+        "episodeId": "mieruko-chan-17698?ep=83413",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "She Totally Sees Them",
+        "episodeId": "mieruko-chan-17698?ep=83536",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "She Still Sees Them",
+        "episodeId": "mieruko-chan-17698?ep=83693",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Yep, She Sees Them",
+        "episodeId": "mieruko-chan-17698?ep=83812",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "I See Them, Too",
+        "episodeId": "mieruko-chan-17698?ep=83897",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "She Sees Real Crazy Ones",
+        "episodeId": "mieruko-chan-17698?ep=83898",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Did You See That?",
+        "episodeId": "mieruko-chan-17698?ep=84104",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "The Things She Sees",
+        "episodeId": "mieruko-chan-17698?ep=84105",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Things She's Seen Before",
+        "episodeId": "mieruko-chan-17698?ep=84808",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Don't Look",
+        "episodeId": "mieruko-chan-17698?ep=84809",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "She Looks",
+        "episodeId": "mieruko-chan-17698?ep=85136",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Mieruko-chan: The Girl Who Sees",
+        "episodeId": "mieruko-chan-17698?ep=85137",
+        "number": 12,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Haikyuu!!",
+    "key": "haikyu-76",
+    "totalEpisodes": 25,
+    "episodes": [
+      {
+        "title": "The End and the Beginning",
+        "episodeId": "haikyu-76?ep=1626",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Karasuno High School Volleyball Club",
+        "episodeId": "haikyu-76?ep=1627",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "The Formidable Ally",
+        "episodeId": "haikyu-76?ep=1628",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "The View From the Summit",
+        "episodeId": "haikyu-76?ep=1629",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "A Coward's Anxiety",
+        "episodeId": "haikyu-76?ep=1630",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "An Interesting Team",
+        "episodeId": "haikyu-76?ep=1631",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Versus the Great King",
+        "episodeId": "haikyu-76?ep=1632",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "He Who Is Called Ace",
+        "episodeId": "haikyu-76?ep=1633",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "A Toss to the Ace",
+        "episodeId": "haikyu-76?ep=1634",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Yearning",
+        "episodeId": "haikyu-76?ep=1635",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Decision",
+        "episodeId": "haikyu-76?ep=1636",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "The Neko-Karasu Reunion",
+        "episodeId": "haikyu-76?ep=1637",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "Rival",
+        "episodeId": "haikyu-76?ep=1638",
+        "number": 13,
+        "isFiller": false
+      },
+      {
+        "title": "Formidable Opponents",
+        "episodeId": "haikyu-76?ep=1639",
+        "number": 14,
+        "isFiller": false
+      },
+      {
+        "title": "Revival",
+        "episodeId": "haikyu-76?ep=1640",
+        "number": 15,
+        "isFiller": false
+      },
+      {
+        "title": "Winners and Losers",
+        "episodeId": "haikyu-76?ep=1641",
+        "number": 16,
+        "isFiller": false
+      },
+      {
+        "title": "The Iron Wall",
+        "episodeId": "haikyu-76?ep=1642",
+        "number": 17,
+        "isFiller": false
+      },
+      {
+        "title": "Guarding Your Back",
+        "episodeId": "haikyu-76?ep=1643",
+        "number": 18,
+        "isFiller": false
+      },
+      {
+        "title": "Conductors",
+        "episodeId": "haikyu-76?ep=1644",
+        "number": 19,
+        "isFiller": false
+      },
+      {
+        "title": "Oikawa Toru is not a Genius",
+        "episodeId": "haikyu-76?ep=1645",
+        "number": 20,
+        "isFiller": false
+      },
+      {
+        "title": "Senpai's True Abilities",
+        "episodeId": "haikyu-76?ep=1646",
+        "number": 21,
+        "isFiller": false
+      },
+      {
+        "title": "Evolution",
+        "episodeId": "haikyu-76?ep=1647",
+        "number": 22,
+        "isFiller": false
+      },
+      {
+        "title": "The Point that Changes the Momentum",
+        "episodeId": "haikyu-76?ep=1648",
+        "number": 23,
+        "isFiller": false
+      },
+      {
+        "title": "Removing the Solitary King",
+        "episodeId": "haikyu-76?ep=1649",
+        "number": 24,
+        "isFiller": false
+      },
+      {
+        "title": "The Third Day",
+        "episodeId": "haikyu-76?ep=1650",
+        "number": 25,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Death Note",
+    "key": "death-note-60",
+    "totalEpisodes": 37,
+    "episodes": [
+      {
+        "title": "Rebirth",
+        "episodeId": "death-note-60?ep=1464",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Confrontation",
+        "episodeId": "death-note-60?ep=1465",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Dealings",
+        "episodeId": "death-note-60?ep=1466",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Pursuit",
+        "episodeId": "death-note-60?ep=1467",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Tactics",
+        "episodeId": "death-note-60?ep=1468",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Unraveling",
+        "episodeId": "death-note-60?ep=1469",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Overcast",
+        "episodeId": "death-note-60?ep=1470",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "Glare",
+        "episodeId": "death-note-60?ep=1471",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Encounter",
+        "episodeId": "death-note-60?ep=1472",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Doubt",
+        "episodeId": "death-note-60?ep=1473",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Assault",
+        "episodeId": "death-note-60?ep=1474",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Love",
+        "episodeId": "death-note-60?ep=1475",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "Confession",
+        "episodeId": "death-note-60?ep=1476",
+        "number": 13,
+        "isFiller": false
+      },
+      {
+        "title": "Friend",
+        "episodeId": "death-note-60?ep=1477",
+        "number": 14,
+        "isFiller": false
+      },
+      {
+        "title": "Wager",
+        "episodeId": "death-note-60?ep=1478",
+        "number": 15,
+        "isFiller": false
+      },
+      {
+        "title": "Decision",
+        "episodeId": "death-note-60?ep=1479",
+        "number": 16,
+        "isFiller": false
+      },
+      {
+        "title": "Execution",
+        "episodeId": "death-note-60?ep=1480",
+        "number": 17,
+        "isFiller": false
+      },
+      {
+        "title": "Ally",
+        "episodeId": "death-note-60?ep=1481",
+        "number": 18,
+        "isFiller": false
+      },
+      {
+        "title": "Matsuda",
+        "episodeId": "death-note-60?ep=1482",
+        "number": 19,
+        "isFiller": false
+      },
+      {
+        "title": "Makeshift",
+        "episodeId": "death-note-60?ep=1483",
+        "number": 20,
+        "isFiller": false
+      },
+      {
+        "title": "Performance",
+        "episodeId": "death-note-60?ep=1484",
+        "number": 21,
+        "isFiller": false
+      },
+      {
+        "title": "Guidance",
+        "episodeId": "death-note-60?ep=1485",
+        "number": 22,
+        "isFiller": false
+      },
+      {
+        "title": "Frenzy",
+        "episodeId": "death-note-60?ep=1486",
+        "number": 23,
+        "isFiller": false
+      },
+      {
+        "title": "Revival",
+        "episodeId": "death-note-60?ep=1487",
+        "number": 24,
+        "isFiller": false
+      },
+      {
+        "title": "Silence",
+        "episodeId": "death-note-60?ep=1488",
+        "number": 25,
+        "isFiller": false
+      },
+      {
+        "title": "Renewal",
+        "episodeId": "death-note-60?ep=1489",
+        "number": 26,
+        "isFiller": false
+      },
+      {
+        "title": "Abduction",
+        "episodeId": "death-note-60?ep=1490",
+        "number": 27,
+        "isFiller": false
+      },
+      {
+        "title": "Impatience",
+        "episodeId": "death-note-60?ep=1491",
+        "number": 28,
+        "isFiller": false
+      },
+      {
+        "title": "Father",
+        "episodeId": "death-note-60?ep=1492",
+        "number": 29,
+        "isFiller": false
+      },
+      {
+        "title": "Justice",
+        "episodeId": "death-note-60?ep=1493",
+        "number": 30,
+        "isFiller": false
+      },
+      {
+        "title": "Transfer",
+        "episodeId": "death-note-60?ep=1494",
+        "number": 31,
+        "isFiller": false
+      },
+      {
+        "title": "Selection",
+        "episodeId": "death-note-60?ep=1495",
+        "number": 32,
+        "isFiller": false
+      },
+      {
+        "title": "Scorn",
+        "episodeId": "death-note-60?ep=1496",
+        "number": 33,
+        "isFiller": false
+      },
+      {
+        "title": "Vigilance",
+        "episodeId": "death-note-60?ep=1497",
+        "number": 34,
+        "isFiller": false
+      },
+      {
+        "title": "Malice",
+        "episodeId": "death-note-60?ep=1498",
+        "number": 35,
+        "isFiller": false
+      },
+      {
+        "title": "1.28 (January 28)",
+        "episodeId": "death-note-60?ep=1499",
+        "number": 36,
+        "isFiller": false
+      },
+      {
+        "title": "New World",
+        "episodeId": "death-note-60?ep=1500",
+        "number": 37,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "No Game No Life",
+    "key": "no-game-no-life-261",
+    "totalEpisodes": 12,
+    "episodes": [
+      {
+        "title": "Beginner",
+        "episodeId": "no-game-no-life-261?ep=5328",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Challenger",
+        "episodeId": "no-game-no-life-261?ep=5329",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Expert",
+        "episodeId": "no-game-no-life-261?ep=5330",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Grandmaster",
+        "episodeId": "no-game-no-life-261?ep=5331",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Weak Square",
+        "episodeId": "no-game-no-life-261?ep=5332",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Interesting",
+        "episodeId": "no-game-no-life-261?ep=5333",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Sacrifice",
+        "episodeId": "no-game-no-life-261?ep=5334",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "Fake End",
+        "episodeId": "no-game-no-life-261?ep=5335",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Sky Walk",
+        "episodeId": "no-game-no-life-261?ep=5336",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Blue Rose",
+        "episodeId": "no-game-no-life-261?ep=5337",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Killing Giant",
+        "episodeId": "no-game-no-life-261?ep=5338",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Rule Number 10",
+        "episodeId": "no-game-no-life-261?ep=5339",
+        "number": 12,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Toradora! (Tiger X Dragon)",
+    "key": "toradora-232",
+    "totalEpisodes": 25,
+    "episodes": [
+      {
+        "title": "Tiger and Dragon",
+        "episodeId": "toradora-232?ep=4951",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Ryuuji and Taiga",
+        "episodeId": "toradora-232?ep=4952",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Your Song",
+        "episodeId": "toradora-232?ep=4953",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "That Moment's Expression",
+        "episodeId": "toradora-232?ep=4954",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Ami Kawashima",
+        "episodeId": "toradora-232?ep=4955",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "True Self",
+        "episodeId": "toradora-232?ep=4956",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Pool Opening",
+        "episodeId": "toradora-232?ep=4957",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "For Whose Sake?",
+        "episodeId": "toradora-232?ep=4958",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Let's Go to the Ocean, You Say",
+        "episodeId": "toradora-232?ep=4959",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Fireworks",
+        "episodeId": "toradora-232?ep=4960",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Ohashi High School Cultural Festival - Part I",
+        "episodeId": "toradora-232?ep=4961",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Ohashi High School Cultural Festival - Part II",
+        "episodeId": "toradora-232?ep=4962",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "Ohashi High School Cultural Festival - Part III",
+        "episodeId": "toradora-232?ep=4963",
+        "number": 13,
+        "isFiller": false
+      },
+      {
+        "title": "The Palmtop Tiger of Happiness",
+        "episodeId": "toradora-232?ep=4964",
+        "number": 14,
+        "isFiller": false
+      },
+      {
+        "title": "The Stars are Far",
+        "episodeId": "toradora-232?ep=4965",
+        "number": 15,
+        "isFiller": false
+      },
+      {
+        "title": "One Step Forward",
+        "episodeId": "toradora-232?ep=4966",
+        "number": 16,
+        "isFiller": false
+      },
+      {
+        "title": "Mercury Retrogrades at Christmas",
+        "episodeId": "toradora-232?ep=4967",
+        "number": 17,
+        "isFiller": false
+      },
+      {
+        "title": "Under the Fir Tree",
+        "episodeId": "toradora-232?ep=4968",
+        "number": 18,
+        "isFiller": false
+      },
+      {
+        "title": "Christmas Eve Festival",
+        "episodeId": "toradora-232?ep=4969",
+        "number": 19,
+        "isFiller": false
+      },
+      {
+        "title": "Forever Like This",
+        "episodeId": "toradora-232?ep=4970",
+        "number": 20,
+        "isFiller": false
+      },
+      {
+        "title": "No Matter What",
+        "episodeId": "toradora-232?ep=4971",
+        "number": 21,
+        "isFiller": false
+      },
+      {
+        "title": "The Scene With You",
+        "episodeId": "toradora-232?ep=4972",
+        "number": 22,
+        "isFiller": false
+      },
+      {
+        "title": "The Road That We Must Advance On",
+        "episodeId": "toradora-232?ep=4973",
+        "number": 23,
+        "isFiller": false
+      },
+      {
+        "title": "Confession",
+        "episodeId": "toradora-232?ep=4974",
+        "number": 24,
+        "isFiller": false
+      },
+      {
+        "title": "Toradora!",
+        "episodeId": "toradora-232?ep=4975",
+        "number": 25,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Elfen Lied",
+    "key": "elfen-lied-1313",
+    "totalEpisodes": 13,
+    "episodes": [
+      {
+        "title": "A Chance Encounter: Begegnung",
+        "episodeId": "elfen-lied-1313?ep=19162",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Annihilation: Vernichtung",
+        "episodeId": "elfen-lied-1313?ep=19163",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Deep Feelings: Im Innersten",
+        "episodeId": "elfen-lied-1313?ep=19164",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Attack: Aufeinandertreffen",
+        "episodeId": "elfen-lied-1313?ep=19165",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Receipt: Empfang",
+        "episodeId": "elfen-lied-1313?ep=19166",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Innermost Feelings: Herzenswaerme",
+        "episodeId": "elfen-lied-1313?ep=19167",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Confrontation: Zufaellige Begegnung",
+        "episodeId": "elfen-lied-1313?ep=19168",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "The Beginning: Beginn",
+        "episodeId": "elfen-lied-1313?ep=19169",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Reminiscence: Schoene Erinnerung",
+        "episodeId": "elfen-lied-1313?ep=19170",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Infant: Saeugling",
+        "episodeId": "elfen-lied-1313?ep=19171",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Complication: Vermischung",
+        "episodeId": "elfen-lied-1313?ep=19172",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Quagmire: Taumeln",
+        "episodeId": "elfen-lied-1313?ep=19173",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "No Return: Erleuchtung",
+        "episodeId": "elfen-lied-1313?ep=19174",
+        "number": 13,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Angel Beats!",
+    "key": "angel-beats-321",
+    "totalEpisodes": 13,
+    "episodes": [
+      {
+        "title": "Departure",
+        "episodeId": "angel-beats-321?ep=6197",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Guild",
+        "episodeId": "angel-beats-321?ep=6198",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "My Song",
+        "episodeId": "angel-beats-321?ep=6199",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Day Game",
+        "episodeId": "angel-beats-321?ep=6200",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Favorite Flavor",
+        "episodeId": "angel-beats-321?ep=6201",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Family Affair",
+        "episodeId": "angel-beats-321?ep=6202",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Alive",
+        "episodeId": "angel-beats-321?ep=6203",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "Dancer in the Dark",
+        "episodeId": "angel-beats-321?ep=6204",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "In Your Memory",
+        "episodeId": "angel-beats-321?ep=6205",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Goodbye Days",
+        "episodeId": "angel-beats-321?ep=6206",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Change the World",
+        "episodeId": "angel-beats-321?ep=6207",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Knockin' on Heaven's Door",
+        "episodeId": "angel-beats-321?ep=6208",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "Graduation",
+        "episodeId": "angel-beats-321?ep=6209",
+        "number": 13,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Yakusoku no Neverland (The Promised Neverland)",
+    "key": "the-promised-neverland-55",
+    "totalEpisodes": 12,
+    "episodes": [
+      {
+        "title": "121045",
+        "episodeId": "the-promised-neverland-55?ep=1389",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "131045",
+        "episodeId": "the-promised-neverland-55?ep=1390",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "181045",
+        "episodeId": "the-promised-neverland-55?ep=1391",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "291045",
+        "episodeId": "the-promised-neverland-55?ep=1392",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "301045",
+        "episodeId": "the-promised-neverland-55?ep=1393",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "311045",
+        "episodeId": "the-promised-neverland-55?ep=1394",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "011145",
+        "episodeId": "the-promised-neverland-55?ep=1395",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "021145",
+        "episodeId": "the-promised-neverland-55?ep=1396",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "031145",
+        "episodeId": "the-promised-neverland-55?ep=1397",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "130146",
+        "episodeId": "the-promised-neverland-55?ep=1398",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "140146",
+        "episodeId": "the-promised-neverland-55?ep=1399",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "150146",
+        "episodeId": "the-promised-neverland-55?ep=1400",
+        "number": 12,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Samurai Champloo",
+    "key": "samurai-champloo-98",
+    "totalEpisodes": 26,
+    "episodes": [
+      {
+        "title": "Tempestuous Temperaments",
+        "episodeId": "samurai-champloo-98?ep=2090",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Redeye Reprisal",
+        "episodeId": "samurai-champloo-98?ep=2091",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Hellhounds for Hire (Part 1)",
+        "episodeId": "samurai-champloo-98?ep=2092",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Hellhounds for Hire (Part 2)",
+        "episodeId": "samurai-champloo-98?ep=2093",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Artistic Anarchy",
+        "episodeId": "samurai-champloo-98?ep=2094",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Stranger Searching",
+        "episodeId": "samurai-champloo-98?ep=2095",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "A Risky Racket",
+        "episodeId": "samurai-champloo-98?ep=2096",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "The Art of Altercation",
+        "episodeId": "samurai-champloo-98?ep=2097",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Beatbox Bandits",
+        "episodeId": "samurai-champloo-98?ep=2098",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Lethal Lunacy",
+        "episodeId": "samurai-champloo-98?ep=2099",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Gamblers and Gallantry",
+        "episodeId": "samurai-champloo-98?ep=2100",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "The Disorder Diaries",
+        "episodeId": "samurai-champloo-98?ep=2101",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "Misguided Miscreants (Part 1)",
+        "episodeId": "samurai-champloo-98?ep=2102",
+        "number": 13,
+        "isFiller": false
+      },
+      {
+        "title": "Misguided Miscreants (Part 2)",
+        "episodeId": "samurai-champloo-98?ep=2103",
+        "number": 14,
+        "isFiller": false
+      },
+      {
+        "title": "Bogus Booty",
+        "episodeId": "samurai-champloo-98?ep=2104",
+        "number": 15,
+        "isFiller": false
+      },
+      {
+        "title": "Lullabies of the Lost (Verse 1)",
+        "episodeId": "samurai-champloo-98?ep=2105",
+        "number": 16,
+        "isFiller": false
+      },
+      {
+        "title": "Lullabies of the Lost (Verse 2)",
+        "episodeId": "samurai-champloo-98?ep=2106",
+        "number": 17,
+        "isFiller": false
+      },
+      {
+        "title": "War of the Words",
+        "episodeId": "samurai-champloo-98?ep=2107",
+        "number": 18,
+        "isFiller": false
+      },
+      {
+        "title": "Unholy Union",
+        "episodeId": "samurai-champloo-98?ep=2108",
+        "number": 19,
+        "isFiller": false
+      },
+      {
+        "title": "Elegy of Entrapment (Verse 1)",
+        "episodeId": "samurai-champloo-98?ep=2109",
+        "number": 20,
+        "isFiller": false
+      },
+      {
+        "title": "Elegy of Entrapment (Verse 2)",
+        "episodeId": "samurai-champloo-98?ep=2110",
+        "number": 21,
+        "isFiller": false
+      },
+      {
+        "title": "Cosmic Collisions",
+        "episodeId": "samurai-champloo-98?ep=2111",
+        "number": 22,
+        "isFiller": false
+      },
+      {
+        "title": "Baseball Blues",
+        "episodeId": "samurai-champloo-98?ep=2112",
+        "number": 23,
+        "isFiller": false
+      },
+      {
+        "title": "Evanescent Encounter (Part 1)",
+        "episodeId": "samurai-champloo-98?ep=2113",
+        "number": 24,
+        "isFiller": false
+      },
+      {
+        "title": "Evanescent Encounter (Part 2)",
+        "episodeId": "samurai-champloo-98?ep=2114",
+        "number": 25,
+        "isFiller": false
+      },
+      {
+        "title": "Evanescent Encounter (Part 3)",
+        "episodeId": "samurai-champloo-98?ep=2115",
+        "number": 26,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Devilman Crybaby",
+    "key": "devilman-crybaby-702",
+    "totalEpisodes": 10,
+    "episodes": [
+      {
+        "title": "I Need You",
+        "episodeId": "devilman-crybaby-702?ep=12784",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "One Hand Is Enough",
+        "episodeId": "devilman-crybaby-702?ep=12785",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Believe Me!",
+        "episodeId": "devilman-crybaby-702?ep=12786",
+        "number": 3,
+        "isFiller": true
+      },
+      {
+        "title": "Come, Akira",
+        "episodeId": "devilman-crybaby-702?ep=12787",
+        "number": 4,
+        "isFiller": true
+      },
+      {
+        "title": "Beautiful Silene",
+        "episodeId": "devilman-crybaby-702?ep=12788",
+        "number": 5,
+        "isFiller": true
+      },
+      {
+        "title": "Neither Demon Nor Human",
+        "episodeId": "devilman-crybaby-702?ep=12789",
+        "number": 6,
+        "isFiller": true
+      },
+      {
+        "title": "Weak Humans, Wise Demons",
+        "episodeId": "devilman-crybaby-702?ep=12790",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "I Must Know Myself",
+        "episodeId": "devilman-crybaby-702?ep=12791",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Go to Hell, You Mortals",
+        "episodeId": "devilman-crybaby-702?ep=12792",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Crybaby",
+        "episodeId": "devilman-crybaby-702?ep=12793",
+        "number": 10,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Made in Abyss",
+    "key": "made-in-abyss-32",
+    "episodes": [
+      {
+        "title": "The City of the Great Pit",
+        "episodeId": "made-in-abyss-32?ep=948",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Resurrection Festival",
+        "episodeId": "made-in-abyss-32?ep=949",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Departure",
+        "episodeId": "made-in-abyss-32?ep=950",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "The Edge of the Abyss",
+        "episodeId": "made-in-abyss-32?ep=951",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Incinerator",
+        "episodeId": "made-in-abyss-32?ep=952",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Seeker Camp",
+        "episodeId": "made-in-abyss-32?ep=953",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "The Unmovable Sovereign",
+        "episodeId": "made-in-abyss-32?ep=954",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "Survival Training",
+        "episodeId": "made-in-abyss-32?ep=955",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "The Great Fault",
+        "episodeId": "made-in-abyss-32?ep=956",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Poison and the Curse",
+        "episodeId": "made-in-abyss-32?ep=957",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Nanachi",
+        "episodeId": "made-in-abyss-32?ep=958",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "The True Nature of the Curse",
+        "episodeId": "made-in-abyss-32?ep=959",
+        "number": 12,
+        "isFiller": false
+      },
+      {
+        "title": "The Challengers",
+        "episodeId": "made-in-abyss-32?ep=960",
+        "number": 13,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Black Lagoon",
+    "key": "black-lagoon-456",
+    "totalEpisodes": 12,
+    "episodes": [
+      {
+        "title": "The Black Lagoon",
+        "episodeId": "black-lagoon-456?ep=9717",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Mangrove Heaven",
+        "episodeId": "black-lagoon-456?ep=9718",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Ring-Ding Ship Chase",
+        "episodeId": "black-lagoon-456?ep=9719",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Die Rückkehr des Adlers",
+        "episodeId": "black-lagoon-456?ep=9720",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Eagle Hunting and Hunting Eagles",
+        "episodeId": "black-lagoon-456?ep=9721",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Moonlit Hunting Grounds",
+        "episodeId": "black-lagoon-456?ep=9722",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Calm Down, Two Men",
+        "episodeId": "black-lagoon-456?ep=9723",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "Rasta Blasta",
+        "episodeId": "black-lagoon-456?ep=9724",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Maid to Kill",
+        "episodeId": "black-lagoon-456?ep=9725",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "The Unstoppable Chambermaid",
+        "episodeId": "black-lagoon-456?ep=9726",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "Lock'n Load Revolution",
+        "episodeId": "black-lagoon-456?ep=9727",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Guerrillas in the Jungle",
+        "episodeId": "black-lagoon-456?ep=9728",
+        "number": 12,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "One Punch Man",
+    "key": "one-punch-man-63",
+    "totalEpisodes": 12,
+    "episodes": [
+      {
+        "title": "The Strongest Man",
+        "episodeId": "one-punch-man-63?ep=1501",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "The Lone Cyborg",
+        "episodeId": "one-punch-man-63?ep=1502",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "The Obsessive Scientist",
+        "episodeId": "one-punch-man-63?ep=1503",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "The Modern Ninja",
+        "episodeId": "one-punch-man-63?ep=1504",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "The Ultimate Mentor",
+        "episodeId": "one-punch-man-63?ep=1505",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "The Terrifying City",
+        "episodeId": "one-punch-man-63?ep=1506",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "The Ultimate Disciple",
+        "episodeId": "one-punch-man-63?ep=1507",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "The Deep Sea King",
+        "episodeId": "one-punch-man-63?ep=1508",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Unyielding Justice",
+        "episodeId": "one-punch-man-63?ep=1509",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Unparalleled Peril",
+        "episodeId": "one-punch-man-63?ep=1510",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "The Dominator of the Universe",
+        "episodeId": "one-punch-man-63?ep=1511",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "The Strongest Hero",
+        "episodeId": "one-punch-man-63?ep=1512",
+        "number": 12,
+        "isFiller": false
+      }
+    ]
+  },
+  {
+    "id": "Tokyo Ghoul",
+    "key": "tokyo-ghoul-790",
+    "totalEpisodes": 12,
+    "episodes": [
+      {
+        "title": "Tragedy",
+        "episodeId": "tokyo-ghoul-790?ep=13547",
+        "number": 1,
+        "isFiller": false
+      },
+      {
+        "title": "Incubation",
+        "episodeId": "tokyo-ghoul-790?ep=13548",
+        "number": 2,
+        "isFiller": false
+      },
+      {
+        "title": "Dove",
+        "episodeId": "tokyo-ghoul-790?ep=13549",
+        "number": 3,
+        "isFiller": false
+      },
+      {
+        "title": "Supper",
+        "episodeId": "tokyo-ghoul-790?ep=13550",
+        "number": 4,
+        "isFiller": false
+      },
+      {
+        "title": "Scar",
+        "episodeId": "tokyo-ghoul-790?ep=13551",
+        "number": 5,
+        "isFiller": false
+      },
+      {
+        "title": "Cloudburst",
+        "episodeId": "tokyo-ghoul-790?ep=13552",
+        "number": 6,
+        "isFiller": false
+      },
+      {
+        "title": "Captivity",
+        "episodeId": "tokyo-ghoul-790?ep=13553",
+        "number": 7,
+        "isFiller": false
+      },
+      {
+        "title": "Circular",
+        "episodeId": "tokyo-ghoul-790?ep=13554",
+        "number": 8,
+        "isFiller": false
+      },
+      {
+        "title": "Birdcage",
+        "episodeId": "tokyo-ghoul-790?ep=13555",
+        "number": 9,
+        "isFiller": false
+      },
+      {
+        "title": "Aogiri",
+        "episodeId": "tokyo-ghoul-790?ep=13556",
+        "number": 10,
+        "isFiller": false
+      },
+      {
+        "title": "High Spirits",
+        "episodeId": "tokyo-ghoul-790?ep=13557",
+        "number": 11,
+        "isFiller": false
+      },
+      {
+        "title": "Ghoul",
+        "episodeId": "tokyo-ghoul-790?ep=13558",
+        "number": 12,
+        "isFiller": false
+      }
+    ]
+  }
+]

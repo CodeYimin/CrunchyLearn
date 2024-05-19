@@ -1,0 +1,30 @@
+{
+  "name": "subtitle-processer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e ts src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@plussub/srt-vtt-parser": "^1.1.1",
+    "@types/big-json": "^3.2.4",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.12",
+    "@types/prompts": "^2.4.9",
+    "ass-compiler": "^0.1.11",
+    "big-json": "^3.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "kuromojin": "^3.0.0",
+    "nodemon": "^3.1.0",
+    "prompts": "^2.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
